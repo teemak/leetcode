@@ -1,6 +1,3 @@
-Initial commit.
-
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
