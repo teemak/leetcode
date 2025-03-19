@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 ## Dynamic Programming
