@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/teemak/leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
