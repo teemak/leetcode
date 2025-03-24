@@ -86,13 +86,23 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
