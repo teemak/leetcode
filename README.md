@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
