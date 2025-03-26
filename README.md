@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
+| [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+| [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
