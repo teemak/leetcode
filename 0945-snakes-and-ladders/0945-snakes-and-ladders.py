@@ -1,29 +1,35 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         mapping, visited = [-1], {1}
-        queue = [(1,0)]
+        queue, moves = [1], 0
 
-        for i, row in enumerate(reversed(board), start=1):
-            vals = row if i % 2 != 0 else row[::-1]
-            mapping.extend(vals)
+        for i, row in enumerate(board[::-1], start = 1):
+            mapping += row if i % 2 else row[::-1]
 
-        last = len(board)**2
+        end = len(board)**2
 
         while queue:
-            pos, moves = queue.pop(0)
+            for _ in range(len(queue)):
+                pos = queue.pop(0)
 
-            if pos == last:
-                return moves
+                if pos == end:
+                    return moves
 
-            max_move = min(pos + 7, last + 1)
+                for roll in range(1, 7):
+                    next = pos + roll
 
-            for next in range(pos + 1, max_move):
-                if mapping[next] != -1:
-                    dest = mapping[next]
-                else:
-                    dest = next
-                if dest not in visited:
-                    visited.add(dest)
-                    queue.append((dest, moves + 1))
-        
+                    if next > end:
+                        continue
+
+                    if mapping[next] == -1:
+                        dest = next
+                    else:
+                        dest = mapping[next]
+
+                    if dest not in visited:
+                        visited.add(dest)
+                        queue.append(dest)
+
+            moves += 1
+
         return -1
