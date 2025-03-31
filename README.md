@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/teemak/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/teemak/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
@@ -68,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
