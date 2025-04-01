@@ -3,7 +3,7 @@ class Solution:
         if x < 2:
             return x
 
-        lo, hi = 1, x
+        lo, hi = 2, x
 
         while lo < hi:
             mid = (hi + lo) // 2
