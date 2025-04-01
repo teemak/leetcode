@@ -17,9 +17,9 @@ class Solution:
         while lo <= hi:
             mid = (hi + lo) // 2
             if mid * mid > x:
-                hi = mid - 1
+                hi = mid - 1 # need this for 6 because it overshoots
             else:
                 lo = mid + 1
 
-        # need to return hi for overshoots
+        # need to return hi for overshoots i.e. 6
         return hi
