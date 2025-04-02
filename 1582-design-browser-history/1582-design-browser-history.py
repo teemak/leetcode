@@ -1,27 +1,25 @@
 class BrowserHistory:
 
     def __init__(self, homepage: str):
-        self.stack = list([0] * 101)
-        self.current = -1
-        self.length = 0
+        self.urls = []
+        self.index = self.lastIndex = -1
         self.visit(homepage)
 
     def visit(self, url: str) -> None:
-        self.current += 1
-        self.length = self.current + 1
-        self.stack[self.current] = url
+        self.index += 1
+        if self.index < len(self.urls):
+            self.urls[self.index] = url
+        else:
+            self.urls.append(url)
+        self.lastIndex = self.index
 
     def back(self, steps: int) -> str:
-        self.current -= steps
-        if self.current < 0:
-            self.current = 0
-        return self.stack[self.current]
+        self.index = max(0, self.index - steps)
+        return self.urls[self.index]
 
     def forward(self, steps: int) -> str:
-        self.current += steps
-        if self.current > self.length - 1:
-            self.current = self.length - 1
-        return self.stack[self.current]
+        self.index = min(self.lastIndex, self.index + steps)
+        return self.urls[self.index]
 
 # Your BrowserHistory object will be instantiated and called as such:
 # obj = BrowserHistory(homepage)
