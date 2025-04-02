@@ -15,6 +15,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -37,6 +38,7 @@
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/teemak/leetcode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -151,6 +153,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
@@ -182,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -231,4 +235,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
