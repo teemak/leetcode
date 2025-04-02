@@ -47,6 +47,7 @@
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/teemak/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -100,6 +101,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/teemak/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/teemak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -122,10 +124,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Graph
 |  |
 | ------- |
@@ -209,4 +213,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
