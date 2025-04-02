@@ -45,10 +45,11 @@ class Solution:
     def maximumTripletValue(self, nums: List[int]) -> int:
         n = len(nums)
         result = 0
-        for i in range(n - 2):
-            for j in range(i + 1, n - 1):
-                for k in range(j + 1, n):
-                    result = max(result, (nums[i] - nums[j]) * nums[k])
+        for k in range(2, n):
+            prefix = nums[0]
+            for j in range(1, k):
+                result = max(result, (prefix - nums[j]) * nums[k])
+                prefix = max(prefix, nums[j])
 
         return result
         
