@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/teemak/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/teemak/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/teemak/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/teemak/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
