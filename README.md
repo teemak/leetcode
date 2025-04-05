@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
+| [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -142,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
@@ -250,6 +252,7 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
@@ -269,4 +272,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
