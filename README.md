@@ -53,6 +53,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/teemak/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -63,6 +64,7 @@
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
+| [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Hash Table
@@ -91,6 +94,7 @@
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
 | ------- |
