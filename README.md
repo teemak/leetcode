@@ -206,6 +206,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Breadth-First Search
 |  |
@@ -298,6 +299,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Binary Tree
@@ -306,6 +308,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Backtracking
