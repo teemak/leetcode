@@ -172,6 +172,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -191,6 +192,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -199,6 +201,7 @@
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -232,6 +235,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Counting
 |  |
