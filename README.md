@@ -47,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
@@ -80,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -96,6 +98,7 @@
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Design
@@ -198,6 +202,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/teemak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Merge Sort
 |  |
@@ -220,6 +225,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
