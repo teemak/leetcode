@@ -19,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
@@ -50,6 +51,7 @@
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -196,6 +199,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -209,6 +213,7 @@
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -219,6 +224,7 @@
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
