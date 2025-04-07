@@ -1,32 +1,31 @@
-from collections import defaultdict, Counter, deque
-
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
         adj_list = defaultdict(set)
-        in_degree = Counter({c: 0 for word in words for c in word})
+        indegree = {c: 0 for word in words for c in word}
 
-        for first_word, second_word in zip(words, words[1:]):
-            for c, d in zip(first_word, second_word):
-                if c != d:
-                    if d not in adj_list[c]:
-                        adj_list[c].add(d)
-                        in_degree[d] += 1
+        for first, second in zip(words, words[1:]):
+            for x, y in zip(first, second):
+                if x != y:
+                    if y not in adj_list[x]:
+                        adj_list[x].add(y)
+                        indegree[y] += 1
                     break
             else:
-                if len(second_word) < len(first_word):
+                if len(second) < len(first):
                     return ''
-        output = []
-        queue = deque([c for c in in_degree if in_degree[c] == 0])
+        top_order = []
+        queue = deque([c for c in indegree if indegree[c] == 0])
+
         while queue:
-            c = queue.popleft()
-            output.append(c)
-            for d in adj_list[c]:
-                in_degree[d] -= 1
-                if in_degree[d] == 0:
-                    queue.append(d)
+            char = queue.popleft()
+            top_order.append(char)
 
-        if len(output) < len(in_degree):
+            for next_char in adj_list[char]:
+                indegree[next_char] -= 1
+                if indegree[next_char] == 0:
+                    queue.append(next_char)
+
+        if len(top_order) != len(indegree):
             return ''
-
-        return ''.join(output)
         
+        return ''.join(top_order)
