@@ -1,8 +1,8 @@
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
-        seen = [False] * 128
+        seen = set()
         for i in range(len(nums) - 1, -1, -1):
-            if seen[nums[i]]:
+            if nums[i] in seen:
                 return i // 3 + 1
-            seen[nums[i]] = True
+            seen.add(nums[i])
         return 0
