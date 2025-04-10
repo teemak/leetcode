@@ -6,6 +6,6 @@ class Solution:
             diff = target - n
             if diff in diffs:
                 return [i, diffs[diff]]
-            diffs[nums[i]] = i
+            diffs[n] = i
         
         return []
