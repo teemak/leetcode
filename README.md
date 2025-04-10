@@ -11,6 +11,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -26,6 +27,7 @@
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Simulation
@@ -149,6 +151,7 @@
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
