@@ -60,6 +60,7 @@
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/teemak/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/teemak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
@@ -348,6 +349,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
@@ -383,6 +385,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 ## Binary Search Tree
 |  |
