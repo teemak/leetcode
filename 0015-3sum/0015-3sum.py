@@ -32,23 +32,34 @@ reflections:
 '''
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        triplets = set()
         nums.sort()
-        n = len(nums)
-
-        for i in range(0, n - 2):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue 
-
-            left, right = i + 1, n - 1
-            while left < right:
-                total = nums[i] + nums[left] + nums[right]
-                if total == 0:
-                    triplets.add(( nums[i], nums[left], nums[right] ))
-                    left += 1
-                    right -= 1
-                elif total < 0:
-                    left += 1
-                elif total > 0:
-                    right -= 1
-        return [list(t) for t in triplets]
+        triplets = set()
+        l1 = []
+        for idx, key in enumerate(nums):
+            if key not in l1:
+                l1.append(key)
+            else:
+                continue
+            i = 0
+            j = len(nums) - 1
+            while i < j:
+                if i == idx:
+                    i += 1
+                    continue
+                elif j == idx:
+                    j -= 1
+                    continue
+                else:
+                    sums = nums[i] + nums[j]
+                    if sums == -key:
+                        triplets.add(tuple(sorted([key, nums[i], nums[j]])))
+                        i += 1
+                        j -= 1
+                    elif sums > -key:
+                        j -= 1
+                    else:
+                        i += 1
+        l = []
+        for val in triplets:
+            l.append(list(val))
+        return l
