@@ -1,17 +1,18 @@
 class Solution:
     def countPairs(self, deliciousness: List[int]) -> int:
+        counter = Counter(deliciousness)
+        res = 0
         mod = 10 ** 9 + 7
-        max_val = max(deliciousness)
-        max_sum = 2 ** max_val
-        pows_of_2 = [1 << i for i in range(22)] 
-        count = defaultdict(int)
-        pairs = 0
 
-        for val in deliciousness:
-            for target in pows_of_2:
-                diff = target - val
-                pairs += count[diff]
-            count[val] += 1
+        for val, freq in counter.items():
+            if val == 0:
+                continue
+            closest = 2 ** math.ceil(math.log2(val))
+            diff = closest - val
 
-        return pairs % mod
+            if closest == val:
+                res += freq * (freq - 1) // 2
+            
+            res += freq * counter[diff]
         
+        return res % mod
