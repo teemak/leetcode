@@ -24,9 +24,10 @@ plan
 8. store the values in global result, not indices
 
 reflections:
-1. did not think of duplicates
+1. did not think of duplicate values
 2. stored the indices; need to make sure I express the output data type
 3. mistake on sorting the nums list, used sorted(nums) but that does nothing unless I store in variable, nums.sort() sorts in place
+4. use a set to avoid duplicate triplets
 
 '''
 class Solution:
@@ -36,7 +37,6 @@ class Solution:
         n = len(nums)
 
         for i in range(0, n - 2):
-            # need to skip duplicates as expressed in description
             if i > 0 and nums[i] == nums[i - 1]:
                 continue 
 
@@ -47,10 +47,6 @@ class Solution:
                     triplets.add(( nums[i], nums[left], nums[right] ))
                     left += 1
                     right -= 1
-                    # while left < right and nums[left] == nums[left - 1]:
-                    #     left += 1
-                    # while left < right and nums[right] == nums[right + 1]:
-                    #     right -= 1
                 elif total < 0:
                     left += 1
                 elif total > 0:
