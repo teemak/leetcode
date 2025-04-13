@@ -2,12 +2,11 @@ class Solution:
     def countGoodNumbers(self, n: int) -> int:
         mod = 10**9 + 7
 
-        def quick(x, y):
-            ret, mul = 1, x
-            while y > 0:
-                if y % 2 == 1:
-                    ret = ret * mul % mod
-                mul = mul * mul % mod
-                y //=2
-            return ret
-        return quick(5, (n + 1) // 2) * quick(4, n // 2) % mod
+        def expo(x, num):
+            if num == 0:
+                return 1
+            elif num % 2 == 0:
+                return expo(x ** 2 % mod, num // 2)
+            return x * expo(x, num - 1) % mod
+
+        return 5 ** (n % 2) * expo(20, n // 2) % mod
