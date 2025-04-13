@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/teemak/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teemak/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/teemak/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
