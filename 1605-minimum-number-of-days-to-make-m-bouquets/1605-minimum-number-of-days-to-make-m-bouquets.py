@@ -1,6 +1,6 @@
 class Solution:
     def helper(self, bloomDay, mid, k):
-        bouqets = count = 0
+        bouquets = count = 0
 
         for day in bloomDay:
             if day <= mid:
@@ -9,10 +9,10 @@ class Solution:
                 count = 0
             
             if count == k:
-                bouqets += 1
+                bouquets += 1
                 count = 0
 
-        return bouqets
+        return bouquets
 
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
         if m * k > len(bloomDay):
