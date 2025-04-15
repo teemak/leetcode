@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/teemak/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
@@ -222,6 +223,7 @@
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
