@@ -89,6 +89,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/teemak/leetcode/tree/master/1656-count-good-triplets) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -214,6 +215,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/teemak/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
