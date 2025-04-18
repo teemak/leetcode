@@ -35,6 +35,7 @@
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
