@@ -94,6 +94,7 @@
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/teemak/leetcode/tree/master/1656-count-good-triplets) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/teemak/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -121,6 +122,7 @@
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -171,6 +173,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
@@ -244,6 +247,7 @@
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
 |  |
 | ------- |
