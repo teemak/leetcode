@@ -31,6 +31,7 @@
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/teemak/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
+| [0161-one-edit-distance](https://github.com/teemak/leetcode/tree/master/0161-one-edit-distance) |
 | [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
@@ -129,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/teemak/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/teemak/leetcode/tree/master/0141-linked-list-cycle) |
+| [0161-one-edit-distance](https://github.com/teemak/leetcode/tree/master/0161-one-edit-distance) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
