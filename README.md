@@ -104,6 +104,7 @@
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/teemak/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/teemak/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/teemak/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -129,6 +130,7 @@
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Hash Table
@@ -233,6 +236,7 @@
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
 |  |
