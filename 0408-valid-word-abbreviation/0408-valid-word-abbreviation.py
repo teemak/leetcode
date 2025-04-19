@@ -1,21 +1,19 @@
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:
-        i, j, m, prev = len(word), len(abbr), 1, None
+        i = j = 0
 
-        while i > 0 and j > 0:
-            c1, c2 = word[i - 1], abbr[j - 1]
-            if c1 == c2:
-                i -= 1
-                j -= 1
-                m = 1
-                if prev == 0:
+        while i < len(word) and j < len(abbr):
+            if abbr[j].isdigit():
+                if abbr[j] == '0':
                     return False
-            elif c2.isnumeric():
-                i -= int(c2) * m
-                j -= 1
-                m *= 10
-                prev = int(c2)
+                num = 0
+                while j < len(abbr) and abbr[j].isdigit():
+                    num = num * 10 + int(abbr[j])
+                    j += 1
+                i += num
             else:
-                return False
-        return i == j == 0
-        
+                if i >= len(word) or word[i] != abbr[j]:
+                    return False
+                i += 1
+                j += 1
+        return i == len(word) and j == len(abbr)
