@@ -36,6 +36,7 @@
 | [0161-one-edit-distance](https://github.com/teemak/leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/teemak/leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
@@ -192,6 +193,7 @@
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
@@ -393,6 +395,7 @@
 | [0076-minimum-window-substring](https://github.com/teemak/leetcode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/teemak/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/teemak/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/teemak/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
