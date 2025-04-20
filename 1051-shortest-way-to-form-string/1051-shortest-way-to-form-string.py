@@ -1,18 +1,25 @@
 class Solution:
     def shortestWay(self, source: str, target: str) -> int:
-        mapping = defaultdict(list)
-        for i, c in enumerate(source):
-            mapping[c].append(i)
+        char_idx = defaultdict(list)
 
-        i = 0
-        result = 1
-        for c in target:
-            if c not in mapping:
+        for i, c in enumerate(source):
+            char_idx[c].append(i)
+
+        count, i, pos = 1, 0, -1
+
+        while i < len(target):
+            c = target[i]
+            if c not in char_idx:
                 return -1
-            index = bisect.bisect_left(mapping[c], i)
-            if index == len(mapping[c]):
-                result += 1
-                i = mapping[c][0] + 1
+
+            idx_list = char_idx[c]
+            j = bisect.bisect_right(idx_list, pos)
+            
+            if j == len(idx_list):
+                count += 1
+                pos = -1
             else:
-                i = mapping[c][index] + 1
-        return result
+                pos = idx_list[j]
+                i += 1
+
+        return count
