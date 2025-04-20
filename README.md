@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1069-confusing-number](https://github.com/teemak/leetcode/tree/master/1069-confusing-number) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
@@ -90,6 +91,7 @@
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/teemak/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/teemak/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -189,6 +191,7 @@
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -261,6 +264,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/teemak/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
