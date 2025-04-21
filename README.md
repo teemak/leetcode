@@ -5,6 +5,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teemak/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/teemak/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/teemak/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teemak/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/teemak/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/teemak/leetcode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
