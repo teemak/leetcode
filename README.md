@@ -114,6 +114,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/teemak/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -425,6 +426,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Stack
 |  |
 | ------- |
