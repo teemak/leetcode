@@ -90,6 +90,7 @@
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/teemak/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -219,6 +220,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
@@ -396,6 +398,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/teemak/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/teemak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/teemak/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
