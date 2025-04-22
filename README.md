@@ -17,6 +17,7 @@
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
 | [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2998-count-symmetric-integers](https://github.com/teemak/leetcode/tree/master/2998-count-symmetric-integers) |
@@ -60,11 +61,13 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/teemak/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -229,6 +232,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
