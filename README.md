@@ -15,6 +15,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1069-confusing-number](https://github.com/teemak/leetcode/tree/master/1069-confusing-number) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
+| [1500-count-largest-group](https://github.com/teemak/leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -214,6 +215,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1500-count-largest-group](https://github.com/teemak/leetcode/tree/master/1500-count-largest-group) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
