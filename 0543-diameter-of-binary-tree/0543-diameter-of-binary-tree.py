@@ -6,11 +6,18 @@
 #         self.right = right
 '''
          1
-       /  \
-      2    3
+       / 
+      2   
      / \
     4   5
+   /     \
+  3       6
+          
 
+- Global var for diameter
+- Recursive DFS
+    - params: node, returns val
+    - base case: 
 '''
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
