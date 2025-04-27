@@ -98,6 +98,7 @@
 | [0280-wiggle-sort](https://github.com/teemak/leetcode/tree/master/0280-wiggle-sort) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0303-range-sum-query-immutable](https://github.com/teemak/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -312,6 +313,7 @@
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0303-range-sum-query-immutable](https://github.com/teemak/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
@@ -407,6 +409,7 @@
 | ------- |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
@@ -462,6 +465,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/teemak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/teemak/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
