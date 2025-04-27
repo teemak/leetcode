@@ -125,6 +125,7 @@
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/teemak/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1242-matrix-block-sum](https://github.com/teemak/leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -417,6 +418,7 @@
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1242-matrix-block-sum](https://github.com/teemak/leetcode/tree/master/1242-matrix-block-sum) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -477,6 +479,7 @@
 | [0724-find-pivot-index](https://github.com/teemak/leetcode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1242-matrix-block-sum](https://github.com/teemak/leetcode/tree/master/1242-matrix-block-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
