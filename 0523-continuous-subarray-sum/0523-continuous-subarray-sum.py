@@ -1,17 +1,15 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        remainders = {0: -1}
-        total = 0
+        prefix_mod = 0
+        mod_seen = {0: -1}
 
-        for i, num in enumerate(nums):
-            total += num
-            remainder = total % k
+        for i in range(len(nums)):
+            prefix_mod = (prefix_mod + nums[i]) % k
 
-            if remainder in remainders:
-                if i - remainders[remainder] > 1:
+            if prefix_mod in mod_seen:
+                if i - mod_seen[prefix_mod] > 1:
                     return True
             else:
-                remainders[remainder] = i
-
-        return False
+                mod_seen[prefix_mod] = i
             
+        return False
