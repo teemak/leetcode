@@ -133,6 +133,7 @@
 | [1656-count-good-triplets](https://github.com/teemak/leetcode/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
+| [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/teemak/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -417,6 +418,7 @@
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
@@ -477,6 +479,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/teemak/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
