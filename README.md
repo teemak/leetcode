@@ -116,6 +116,7 @@
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/teemak/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -219,6 +220,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/teemak/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -466,6 +468,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/teemak/leetcode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
