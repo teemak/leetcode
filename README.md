@@ -139,6 +139,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/teemak/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/teemak/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -294,6 +295,7 @@
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
@@ -451,6 +453,7 @@
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/teemak/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/teemak/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Bucket Sort
 |  |
@@ -484,6 +487,7 @@
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/teemak/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
