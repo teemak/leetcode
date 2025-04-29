@@ -37,6 +37,7 @@
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/teemak/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/teemak/leetcode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/teemak/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/teemak/leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/teemak/leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -88,6 +89,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/teemak/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/teemak/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -211,6 +213,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/teemak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/teemak/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/teemak/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/teemak/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/teemak/leetcode/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/teemak/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
@@ -258,6 +262,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -529,6 +534,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/teemak/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -545,6 +551,7 @@
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Enumeration
 |  |
