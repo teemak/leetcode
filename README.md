@@ -387,6 +387,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -514,6 +515,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -525,6 +527,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
