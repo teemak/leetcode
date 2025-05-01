@@ -138,6 +138,7 @@
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/teemak/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/teemak/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -196,6 +197,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2561-number-of-distinct-averages](https://github.com/teemak/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -299,6 +301,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -317,6 +320,7 @@
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Design
 |  |
@@ -582,8 +586,10 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
