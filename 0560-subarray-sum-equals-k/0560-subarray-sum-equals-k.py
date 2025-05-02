@@ -7,7 +7,8 @@ class Solution:
 
         for num in nums:
             prefix_sum += num
-            count += prefix_map[prefix_sum - k]
+            diff = prefix_sum - k
+            count += prefix_map[diff]
             prefix_map[prefix_sum] += 1
 
         return count
