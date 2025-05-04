@@ -5,4 +5,5 @@
 - [Solving Kth Problems](https://leetcode.com/discuss/post/1529866/solving-kth-kind-of-problems-by-c0d3m-8ybq/)
 - [Meta Recent](https://leetcode.com/company/facebook/?favoriteSlug=facebook-thirty-days)
 - [Meta Rating](https://mail.google.com/mail/u/1/#inbox/FMfcgzQbfBmqSHKsfBqPQxGnBTVVDNNq)
+- [Minmer](https://www.youtube.com/@CodingWithMinmer)
 
