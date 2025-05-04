@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -109,6 +110,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
@@ -237,6 +239,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
@@ -343,6 +346,7 @@
 | [0303-range-sum-query-immutable](https://github.com/teemak/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
@@ -612,4 +616,8 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
