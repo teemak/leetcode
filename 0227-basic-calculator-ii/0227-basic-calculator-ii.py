@@ -1,34 +1,32 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        s = s.replace(' ', '')
-        n = len(s)
-        result = tail = num = i = 0
+        i = cur = prev = res = 0
         operator = '+'
 
-        while i < n:
-            ch = s[i]
-
-            if ch.isdigit():
-                num = 0
-                while i < n and s[i].isdigit():
-                    num = num * 10 + int(s[i])
+        while i < len(s):
+            element = s[i]
+            if element.isdigit():
+                while i < len(s) and s[i].isdigit():
+                    cur = cur * 10 + int(s[i])
                     i += 1
+                i -= 1
                 if operator == '+':
-                    result += num
-                    tail = num
+                    res += cur
+                    prev = cur
                 elif operator == '-':
-                    result -= num
-                    tail = -num
+                    res -= cur
+                    prev = -cur
                 elif operator == '*':
-                    result = result - tail + (tail * num)
-                    tail = tail * num
-                elif operator == '/':
-                    result = result - tail + int(tail / num)
-                    tail = int(tail / num)
-                continue
-            elif ch in '+-*/':
-                operator = ch
-            
+                    res -= prev
+                    res += prev * cur
+                    prev = cur * prev
+                else:
+                    res -= prev
+                    res += int(prev/cur)
+                    prev = int(prev/cur)
+                cur = 0
+            elif element != ' ':
+                operator = element
             i += 1
-        return result
-                
+        return res
+
