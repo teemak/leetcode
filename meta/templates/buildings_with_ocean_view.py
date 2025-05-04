@@ -1,3 +1,4 @@
+# 1726 https://leetcode.com/problems/buildings-with-an-ocean-view/
 from typing import List
 
 class Solution:
