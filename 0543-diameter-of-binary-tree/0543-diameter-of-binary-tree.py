@@ -4,36 +4,16 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
-         1
-       / 
-      2   
-     / \
-    4   5
-   /     \
-  3       6
-          
-
-- Global var for diameter
-- Recursive DFS
-    - params: node, returns val
-    - base case: 
-'''
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        diameter = 0
-        
         def dfs(node):
-            nonlocal diameter
-            
             if not node:
-                return 0
-                
-            left = dfs(node.left) #4 - 0, #2
-            right = dfs(node.right)  #5 - 0
-            diameter = max(diameter, left + right) #2 - 2 3 - 0, 1 2, 1:3
-            return max(left, right) + 1
-            
-        dfs(root)
-        return diameter
+                return 0, 0
+            left_h, left_d = dfs(node.left)
+            right_h, right_d = dfs(node.right)
+            height = max(left_h,  right_h) + 1
+            path = right_h + left_h
+            diameter = max(path, left_d, right_d)
+            return height, diameter
+        return dfs(root)[1]
         

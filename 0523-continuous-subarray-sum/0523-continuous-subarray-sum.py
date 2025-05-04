@@ -5,13 +5,9 @@ class Solution:
 
         for i, num in enumerate(nums):
             total += num
-            remainder = total % k
-
-            if remainder in remainders:
-                if i - remainders[remainder] > 1:
-                    return True
-            else:
-                remainders[remainder] = i
-
+            r = total % k
+            if r not in remainders:
+                remainders[r] = i
+            elif i - remainders[r] > 1:
+                return True
         return False
-            

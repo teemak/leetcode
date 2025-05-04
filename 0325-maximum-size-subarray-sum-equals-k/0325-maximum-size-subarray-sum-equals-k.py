@@ -1,18 +1,18 @@
 class Solution:
     def maxSubArrayLen(self, nums: List[int], k: int) -> int:
-        prefix_sum = longest = 0
-        indices = {} 
-
+        sum_to_idx = {}
+        prefix_sum, max_len = 0, 0
         for i, num in enumerate(nums):
             prefix_sum += num
 
             if prefix_sum == k:
-                longest = i + 1
-            
-            if prefix_sum - k in indices:
-                longest = max(longest, i - indices[prefix_sum - k])
-            
-            if prefix_sum not in indices:
-                indices[prefix_sum] = i
+                max_len = i + 1
 
-        return longest
+            diff = prefix_sum - k 
+            if diff in sum_to_idx:
+                max_len = max(max_len, i - sum_to_idx[diff])
+            
+            if prefix_sum not in sum_to_idx:
+                sum_to_idx[prefix_sum] = i
+
+        return max_len
