@@ -1,42 +1,26 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        def precedence(op):
-            if op in '*/':
-                return 2
-            if op in '+-':
-                return 1
-            return 0
-        def apply_op(op, b, a):
-            if op == '+': return a + b
-            if op == '-': return a - b
-            if op == '*': return a * b
-            if op == '/': return int(a // b)
-        nums = []
-        ops = []
-        i = 0
-        n = len(s)
+        def helper(s, i):
+            num = 0
+            stack = []
+            sign = '+'
 
-        while i < n:
-            if s[i] == ' ':
+            while i < len(s):
+                ch = s[i]
+                if ch.isdigit():
+                    num = num * 10 + int(ch)
+
+                if ch in '+-*/' or i == len(s) - 1:
+                    if sign == '+':
+                        stack.append(num)
+                    elif sign == '-':
+                        stack.append(-num)
+                    elif sign == '*':
+                        stack[-1] *= num
+                    elif sign == '/':
+                        stack[-1] = int(stack[-1] / num)
+                    sign = ch
+                    num = 0
                 i += 1
-                continue
-            if s[i].isdigit():
-                num = 0
-                while i < n and s[i].isdigit():
-                    num = num * 10 + int(s[i])
-                    i += 1
-                nums.append(num)
-            else:
-                while ops and precedence(ops[-1]) >= precedence(s[i]):
-                    op = ops.pop()
-                    b = nums.pop()
-                    a = nums.pop()
-                    nums.append(apply_op(op, b, a))
-                ops.append(s[i])
-                i += 1
-        while ops:
-            op = ops.pop()
-            b = nums.pop()
-            a = nums.pop()
-            nums.append(apply_op(op, b, a))
-        return nums[0] 
+            return sum(stack)
+        return helper(s.replace(' ', ''), 0)
