@@ -384,6 +384,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/teemak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/teemak/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/teemak/leetcode/tree/master/0133-clone-graph) |
@@ -543,6 +544,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/teemak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/teemak/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -558,6 +560,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/teemak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/teemak/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teemak/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
