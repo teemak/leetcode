@@ -14,8 +14,10 @@ class Solution:
 
         for i, num in enumerate(nums):
             if zero_count > 1:
+                # handles multiple zeros
                 result.append(0)
             elif zero_count == 1:
+                # need to account for division by zero
                 result.append(product if num == 0 else 0)
             else :
                 result.append(product // num)
