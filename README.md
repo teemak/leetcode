@@ -126,6 +126,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/teemak/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/teemak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/teemak/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -320,6 +321,7 @@
 | [0278-first-bad-version](https://github.com/teemak/leetcode/tree/master/0278-first-bad-version) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/teemak/leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
