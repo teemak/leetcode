@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -148,6 +149,7 @@
 | [1656-count-good-triplets](https://github.com/teemak/leetcode/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
+| [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
