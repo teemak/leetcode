@@ -160,6 +160,7 @@
 | [1656-count-good-triplets](https://github.com/teemak/leetcode/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
+| [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -580,6 +581,7 @@
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
+| [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Data Stream
 |  |
 | ------- |
@@ -639,6 +641,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
+| [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Binary Search Tree
 |  |
 | ------- |
