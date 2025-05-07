@@ -135,6 +135,7 @@
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/teemak/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/teemak/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -432,6 +433,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/teemak/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -454,6 +456,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/teemak/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -497,6 +500,7 @@
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0498-diagonal-traverse](https://github.com/teemak/leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -511,6 +515,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/teemak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Counting
