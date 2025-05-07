@@ -93,6 +93,7 @@
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/teemak/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/teemak/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/teemak/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teemak/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/teemak/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
@@ -187,6 +188,7 @@
 | [0015-3sum](https://github.com/teemak/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/teemak/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/teemak/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/teemak/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/teemak/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/teemak/leetcode/tree/master/0141-linked-list-cycle) |
