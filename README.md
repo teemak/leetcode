@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [0498-diagonal-traverse](https://github.com/teemak/leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -121,6 +122,7 @@
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0498-diagonal-traverse](https://github.com/teemak/leetcode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
@@ -479,6 +481,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0304-range-sum-query-2d-immutable](https://github.com/teemak/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0498-diagonal-traverse](https://github.com/teemak/leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
