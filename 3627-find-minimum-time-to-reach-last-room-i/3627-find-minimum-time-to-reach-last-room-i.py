@@ -3,27 +3,26 @@ import heapq
 class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:
         n, m = len(moveTime), len(moveTime[0])
-        time = [[float('inf')] * m for _ in range(n)]
-        pq = []
-        heapq.heappush(pq, (0, 0, 0))
-        time[0][0] = 0
-
         directions = [(1,0), (-1,0), (0,1), (0,-1)]
+        time = [[float('inf')] * m for _ in range(n)]
+        time[0][0] = 0
+        heap = [(0, 0, 0)]
 
-        while pq:
-            t, i, j = heapq.heappop(pq)
+        while heap:
+            curr_time, i, j = heapq.heappop(heap)
 
             if i == n - 1 and j == m - 1:
-                return t
+                return curr_time
 
             for dx, dy in directions:
-                r, s = i + dx, j + dy
-                if r < 0 or r >= n or s < 0 or s >= m:
-                    continue
+                r, c = i + dx, j + dy
 
-                next_time = max(t, moveTime[r][s]) + 1
-                if next_time < time[r][s]:
-                    time[r][s] = next_time
-                    heapq.heappush(pq, (next_time, r, s))
+                if 0 <= r < n and 0 <= c < m:
+                    next_time = max(curr_time, moveTime[r][c]) + 1
+
+                    if next_time < time[r][c]:
+                        time[r][c] = next_time
+                        heapq.heappush(heap, (next_time, r, c))
+
         return -1 
         
