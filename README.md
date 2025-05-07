@@ -411,6 +411,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/teemak/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/teemak/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
@@ -433,6 +434,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/teemak/leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/teemak/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
