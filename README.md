@@ -52,6 +52,7 @@
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [0868-push-dominoes](https://github.com/teemak/leetcode/tree/master/0868-push-dominoes) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/teemak/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -214,6 +215,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -256,6 +258,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/teemak/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
