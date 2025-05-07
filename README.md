@@ -220,6 +220,7 @@
 | [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/teemak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -262,6 +263,7 @@
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/teemak/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -421,6 +423,7 @@
 | [0563-binary-tree-tilt](https://github.com/teemak/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-find-all-the-lonely-nodes](https://github.com/teemak/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -444,6 +447,7 @@
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -588,6 +592,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/teemak/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-find-all-the-lonely-nodes](https://github.com/teemak/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -607,6 +612,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/teemak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/teemak/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/teemak/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-find-all-the-lonely-nodes](https://github.com/teemak/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/teemak/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
