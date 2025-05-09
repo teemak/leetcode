@@ -28,6 +28,7 @@
 | [2998-count-symmetric-integers](https://github.com/teemak/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/teemak/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -64,6 +65,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teemak/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/teemak/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Simulation
@@ -79,6 +81,7 @@
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/teemak/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -304,6 +307,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
