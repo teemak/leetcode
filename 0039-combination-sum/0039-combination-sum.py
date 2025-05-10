@@ -1,24 +1,16 @@
-'''
-2                 running_count     logic
-2+2+2             6                 keep iterating 
-2+2+2+2           8 
-
-
-running_count
-
-'''
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []
-        def dfs(start, path, total):
-            if total == target:
-                result.append(path[:])
-                return 
-            if total > target:
+        results = []
+        def dfs(remain, comb, start):
+            if remain == 0:
+                results.append(list(comb))
+                return
+            elif remain < 0:
                 return
             for i in range(start, len(candidates)):
-                path.append(candidates[i])
-                dfs(i, path, total + candidates[i])
-                path.pop()
-        dfs(0, [], 0)
-        return result
+                comb.append(candidates[i])
+                dfs(remain - candidates[i], comb, i)
+                comb.pop()
+        dfs(target, [], 0)
+        return results
+            
