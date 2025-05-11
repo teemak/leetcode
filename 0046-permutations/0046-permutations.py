@@ -1,14 +1,20 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        def backtrack(curr):
-            if len(curr) == len(nums):
-                ans.append(curr[:])
+        result = []
+        used = [False] * len(nums)
+
+        def dfs(path):
+            if len(path) == len(nums):
+                result.append(path[:])
                 return
-            for num in nums:
-                if num not in curr:
-                    curr.append(num)
-                    backtrack(curr)
-                    curr.pop()
-        backtrack([])
-        return ans
+            for i in range(len(nums)):
+                if used[i]:
+                    continue
+                used[i] = True
+                path.append(nums[i])
+                dfs(path)
+                path.pop()
+                used[i] = False
+        
+        dfs([])
+        return result
