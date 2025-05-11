@@ -155,6 +155,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/teemak/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/teemak/leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/teemak/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
 | [1370-count-number-of-nice-subarrays](https://github.com/teemak/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
