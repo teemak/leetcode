@@ -1,5 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        ans = []
         def backtrack(curr):
             if len(curr) == len(nums):
                 ans.append(curr[:])
@@ -9,7 +10,5 @@ class Solution:
                     curr.append(num)
                     backtrack(curr)
                     curr.pop()
-
-        ans = []
         backtrack([])
         return ans
