@@ -1,18 +1,15 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        def dfs(curr, first_num):
-            if len(curr) == k:
-                ans.append(curr[:])
-                return
-            need = k - len(curr)
-            remain = n - first_num + 1
-            available = remain - need
+        result = []
 
-            for num in range(first_num, first_num + available + 1):
-                curr.append(num)
-                dfs(curr, num + 1)
-                curr.pop()
+        def backtrack(start, path):
+            if len(path) == k:
+                result.append(path[:])
+                return 
+            for i in range(start, n + 1):
+                path.append(i)
+                backtrack(i + 1, path)
+                path.pop()
 
-        ans = []
-        dfs([], 1)
-        return ans
+        backtrack(1, [])
+        return result
