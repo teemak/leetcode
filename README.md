@@ -111,6 +111,7 @@
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/teemak/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/teemak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/teemak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/teemak/leetcode/tree/master/0162-find-peak-element) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/teemak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0361-bomb-enemy](https://github.com/teemak/leetcode/tree/master/0361-bomb-enemy) |
