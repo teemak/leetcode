@@ -48,6 +48,7 @@
 | [0161-one-edit-distance](https://github.com/teemak/leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/teemak/leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0249-group-shifted-strings](https://github.com/teemak/leetcode/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/teemak/leetcode/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -119,6 +120,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/teemak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/teemak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/teemak/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0249-group-shifted-strings](https://github.com/teemak/leetcode/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
 | [0280-wiggle-sort](https://github.com/teemak/leetcode/tree/master/0280-wiggle-sort) |
@@ -277,6 +279,7 @@
 | [0169-majority-element](https://github.com/teemak/leetcode/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0219-contains-duplicate-ii](https://github.com/teemak/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0249-group-shifted-strings](https://github.com/teemak/leetcode/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/teemak/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
