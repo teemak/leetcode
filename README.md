@@ -200,6 +200,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/teemak/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/teemak/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/teemak/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/teemak/leetcode/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/teemak/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/teemak/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -264,6 +265,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/teemak/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/teemak/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/teemak/leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/teemak/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
@@ -342,6 +344,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/teemak/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/teemak/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
@@ -413,6 +416,7 @@
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/teemak/leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/teemak/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/teemak/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/teemak/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Design
 |  |
@@ -673,6 +677,7 @@
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teemak/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -719,6 +724,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teemak/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
 |  |
 | ------- |
