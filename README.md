@@ -169,6 +169,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/teemak/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
+| [1366-first-unique-number](https://github.com/teemak/leetcode/tree/master/1366-first-unique-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/teemak/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teemak/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -311,6 +312,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/teemak/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/teemak/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/teemak/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1366-first-unique-number](https://github.com/teemak/leetcode/tree/master/1366-first-unique-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/teemak/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/teemak/leetcode/tree/master/1500-count-largest-group) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -429,6 +431,7 @@
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/teemak/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1366-first-unique-number](https://github.com/teemak/leetcode/tree/master/1366-first-unique-number) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
@@ -656,6 +659,7 @@
 | [0170-two-sum-iii-data-structure-design](https://github.com/teemak/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/teemak/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/teemak/leetcode/tree/master/0359-logger-rate-limiter) |
+| [1366-first-unique-number](https://github.com/teemak/leetcode/tree/master/1366-first-unique-number) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
@@ -759,6 +763,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/teemak/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1366-first-unique-number](https://github.com/teemak/leetcode/tree/master/1366-first-unique-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
