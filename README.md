@@ -150,6 +150,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/teemak/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/teemak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/teemak/leetcode/tree/master/0733-flood-fill) |
+| [0762-find-anagram-mappings](https://github.com/teemak/leetcode/tree/master/0762-find-anagram-mappings) |
 | [0792-binary-search](https://github.com/teemak/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/teemak/leetcode/tree/master/0854-making-a-large-island) |
@@ -307,6 +308,7 @@
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/teemak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
+| [0762-find-anagram-mappings](https://github.com/teemak/leetcode/tree/master/0762-find-anagram-mappings) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
