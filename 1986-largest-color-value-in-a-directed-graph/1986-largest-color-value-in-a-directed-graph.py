@@ -1,37 +1,39 @@
+from collections import defaultdict
+from typing import List
+
 class Solution:
     def largestPathValue(self, colors: str, edges: List[List[int]]) -> int:
+        n = len(colors)
         graph = defaultdict(list)
-        for edge in edges:
-            u, v = edge
+        for u, v in edges:
             graph[u].append(v)
 
-        visited = [-1] * len(colors)
-        max_colors = defaultdict(lambda:[0]*26)
-        
-        def explore(node):
-            # returns if we found a cycle
-            if visited[node] == 0:
-                return True
-            elif visited[node] == 1:
-                return False
+        visited = [0] * n  # 0 = unvisited, 1 = visiting, 2 = visited
+        color_count = [[0] * 26 for _ in range(n)]
+        self.has_cycle = False
 
-            visited[node] = 0
-            mc = [0] * 26
-            for neighbor in graph[node]:
-                have_cycle = explore(neighbor)
-                if have_cycle: return have_cycle
-                mc = [max(mc[i], max_colors[neighbor][i]) for i in range(len(mc))]
-            mc[ord(colors[node]) - ord('a')] += 1
-            max_colors[node] = mc
+        def dfs(node):
+            if visited[node] == 1:
+                self.has_cycle = True
+                return
+            if visited[node] == 2:
+                return
 
             visited[node] = 1
-            return False
+            for neighbor in graph[node]:
+                dfs(neighbor)
+                for i in range(26):
+                    color_count[node][i] = max(color_count[node][i], color_count[neighbor][i])
 
-        for v in range(len(colors)):
-            if explore(v): return -1
+            color_index = ord(colors[node]) - ord('a')
+            color_count[node][color_index] += 1
+            visited[node] = 2
 
-        res = 0
-        for v in max_colors.keys():
-            res = max(res, max(max_colors[v]))
+        for v in range(n):
+            if visited[v] == 0:
+                dfs(v)
 
-        return res
+        if self.has_cycle:
+            return -1
+
+        return max(max(counts) for counts in color_count)
