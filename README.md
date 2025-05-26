@@ -325,6 +325,7 @@
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/teemak/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/teemak/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/teemak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2455-node-with-highest-edge-score](https://github.com/teemak/leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -347,6 +348,7 @@
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/teemak/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/teemak/leetcode/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/teemak/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/teemak/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -361,6 +363,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -457,6 +460,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/teemak/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/teemak/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2455-node-with-highest-edge-score](https://github.com/teemak/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/teemak/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -467,6 +471,7 @@
 | [0207-course-schedule](https://github.com/teemak/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/teemak/leetcode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/teemak/leetcode/tree/master/0269-alien-dictionary) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -592,6 +597,7 @@
 | [0347-top-k-frequent-elements](https://github.com/teemak/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/teemak/leetcode/tree/master/0621-task-scheduler) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/teemak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sliding Window
