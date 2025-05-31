@@ -2,11 +2,10 @@ class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         mapping, visited = [-1], {1}
         queue, moves = [1], 0
+        end = len(board)**2
 
         for i, row in enumerate(board[::-1], start = 1):
             mapping += row if i % 2 else row[::-1]
-
-        end = len(board)**2
 
         while queue:
             for _ in range(len(queue)):
