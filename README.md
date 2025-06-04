@@ -163,6 +163,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teemak/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1028-interval-list-intersections](https://github.com/teemak/leetcode/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/teemak/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/teemak/leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/teemak/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -238,6 +239,7 @@
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/teemak/leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/teemak/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1028-interval-list-intersections](https://github.com/teemak/leetcode/tree/master/1028-interval-list-intersections) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/teemak/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -799,4 +801,8 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/teemak/leetcode/tree/master/0912-random-pick-with-weight) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/teemak/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
