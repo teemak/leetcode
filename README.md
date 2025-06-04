@@ -11,6 +11,7 @@
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/teemak/leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/teemak/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/teemak/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -56,6 +57,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/teemak/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/teemak/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/teemak/leetcode/tree/master/0353-design-snake-game) |
+| [0415-add-strings](https://github.com/teemak/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/teemak/leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2857-total-distance-traveled](https://github.com/teemak/leetcode/tree/master/2857-total-distance-traveled) |
