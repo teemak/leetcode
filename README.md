@@ -772,6 +772,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/teemak/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Enumeration
 |  |
