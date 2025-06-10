@@ -58,6 +58,7 @@
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/teemak/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0415-add-strings](https://github.com/teemak/leetcode/tree/master/0415-add-strings) |
+| [0439-ternary-expression-parser](https://github.com/teemak/leetcode/tree/master/0439-ternary-expression-parser) |
 | [0541-reverse-string-ii](https://github.com/teemak/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/teemak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/teemak/leetcode/tree/master/0807-custom-sort-string) |
@@ -390,6 +391,7 @@
 | [0002-add-two-numbers](https://github.com/teemak/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/teemak/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/teemak/leetcode/tree/master/0050-powx-n) |
+| [0439-ternary-expression-parser](https://github.com/teemak/leetcode/tree/master/0439-ternary-expression-parser) |
 | [2050-count-good-numbers](https://github.com/teemak/leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -682,6 +684,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/teemak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
+| [0439-ternary-expression-parser](https://github.com/teemak/leetcode/tree/master/0439-ternary-expression-parser) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
