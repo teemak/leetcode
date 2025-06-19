@@ -163,6 +163,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teemak/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/teemak/leetcode/tree/master/0912-random-pick-with-weight) |
+| [0932-monotonic-array](https://github.com/teemak/leetcode/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
