@@ -192,6 +192,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/teemak/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1830-count-good-meals](https://github.com/teemak/leetcode/tree/master/1830-count-good-meals) |
 | [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [2045-cutting-ribbons](https://github.com/teemak/leetcode/tree/master/2045-cutting-ribbons) |
 | [2048-build-array-from-permutation](https://github.com/teemak/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/teemak/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/teemak/leetcode/tree/master/2145-grid-game) |
@@ -418,6 +419,7 @@
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/teemak/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teemak/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/teemak/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2045-cutting-ribbons](https://github.com/teemak/leetcode/tree/master/2045-cutting-ribbons) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/teemak/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/teemak/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/teemak/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
