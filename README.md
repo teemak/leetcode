@@ -33,6 +33,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/teemak/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/teemak/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -78,6 +79,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/teemak/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/teemak/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/teemak/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/teemak/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3836-phone-number-prefix](https://github.com/teemak/leetcode/tree/master/3836-phone-number-prefix) |
 ## Simulation
@@ -348,6 +350,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/teemak/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/teemak/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/teemak/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -624,6 +627,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/teemak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/teemak/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/teemak/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
