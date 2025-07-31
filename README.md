@@ -168,6 +168,7 @@
 | [0907-koko-eating-bananas](https://github.com/teemak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/teemak/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0932-monotonic-array](https://github.com/teemak/leetcode/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/teemak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/teemak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teemak/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/teemak/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -366,6 +367,7 @@
 | [0487-max-consecutive-ones-ii](https://github.com/teemak/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/teemak/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/teemak/leetcode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/teemak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/teemak/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teemak/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -780,6 +782,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/teemak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teemak/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/teemak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
