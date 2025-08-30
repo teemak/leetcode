@@ -115,6 +115,7 @@
 | [0027-remove-element](https://github.com/teemak/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/teemak/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teemak/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/teemak/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/teemak/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/teemak/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
@@ -299,6 +300,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/teemak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/teemak/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/teemak/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/teemak/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/teemak/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/teemak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/teemak/leetcode/tree/master/0076-minimum-window-substring) |
@@ -594,6 +596,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/teemak/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/teemak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/teemak/leetcode/tree/master/0079-word-search) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/teemak/leetcode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
