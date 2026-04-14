@@ -66,6 +66,7 @@
 | [0868-push-dominoes](https://github.com/teemak/leetcode/tree/master/0868-push-dominoes) |
 | [1051-shortest-way-to-form-string](https://github.com/teemak/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/teemak/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teemak/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1345-perform-string-shifts](https://github.com/teemak/leetcode/tree/master/1345-perform-string-shifts) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/teemak/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -701,6 +702,7 @@
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/teemak/leetcode/tree/master/0402-remove-k-digits) |
 | [0439-ternary-expression-parser](https://github.com/teemak/leetcode/tree/master/0439-ternary-expression-parser) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/teemak/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/teemak/leetcode/tree/master/1582-design-browser-history) |
 | [1909-buildings-with-an-ocean-view](https://github.com/teemak/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
