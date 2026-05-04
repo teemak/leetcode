@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/teemak/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/teemak/leetcode/tree/master/0268-missing-number) |
+| [0294-flip-game-ii](https://github.com/teemak/leetcode/tree/master/0294-flip-game-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/teemak/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/teemak/leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/teemak/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -364,6 +365,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/teemak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/teemak/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
+| [0294-flip-game-ii](https://github.com/teemak/leetcode/tree/master/0294-flip-game-ii) |
 | [0361-bomb-enemy](https://github.com/teemak/leetcode/tree/master/0361-bomb-enemy) |
 | [0410-split-array-largest-sum](https://github.com/teemak/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/teemak/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -386,6 +388,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/teemak/leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
+| [0294-flip-game-ii](https://github.com/teemak/leetcode/tree/master/0294-flip-game-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/teemak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
@@ -772,6 +775,7 @@
 | [0113-path-sum-ii](https://github.com/teemak/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/teemak/leetcode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/teemak/leetcode/tree/master/0257-binary-tree-paths) |
+| [0294-flip-game-ii](https://github.com/teemak/leetcode/tree/master/0294-flip-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -841,4 +845,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/teemak/leetcode/tree/master/1028-interval-list-intersections) |
+## Game Theory
+|  |
+| ------- |
+| [0294-flip-game-ii](https://github.com/teemak/leetcode/tree/master/0294-flip-game-ii) |
 <!---LeetCode Topics End-->
